@@ -1,0 +1,10 @@
+form{
+    padding-top: 30px;
+    height: 750px;
+    border: 1px #4f4e4e solid;
+    background-color: rgb(61, 119, 119);
+}
+
+mat-form-field{
+    width: 400px;
+}

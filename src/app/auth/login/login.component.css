@@ -1,0 +1,8 @@
+form {
+    height: 450px;
+    background-color: rgb(111, 145, 218);
+}
+
+mat-form-field {
+    width: 400px;
+}

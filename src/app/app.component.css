@@ -1,0 +1,13 @@
+a {
+    color:rgb(0, 2, 4);
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: rgb(96, 98, 188);
+}
+
+.fav{
+   font-size: 25px;
+   
+}
